@@ -1,0 +1,8 @@
+{
+  "extension": ["ts"],
+  "timeout": 5000,
+  "exit": true,
+  "color": true,
+  "require": ["ts-node/register/transpile-only", "source-map-support/register"],
+  "recursive": true
+}
